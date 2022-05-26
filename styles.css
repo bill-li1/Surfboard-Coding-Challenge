@@ -1,0 +1,7 @@
+.Buttons {
+  display: none;
+}
+
+.Topic:hover .Buttons {
+  display: flex;
+}

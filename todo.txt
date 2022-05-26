@@ -1,0 +1,8 @@
+places to add framer motion (in order of importance)
+- start button (bigger on hover, smaller on click)
+- animate todo list (adding and deleting)
+- animate appear and disappear of side button
+
+LAST ELEMENT FOR REMOVE DOESN'T WORK
+
+deploy!!!
