@@ -10,7 +10,7 @@
 - Built in agenda that contains a list of topics for the meeting
 - Full functional video and audio chat that allows you to pick up and join calls
 - Ability to add descriptions and images to meeting topics that serves as a slide deck
-- Beautiful and inutitive user interface
+- Beautiful and intuitive user interface
 
 ## Credits
 
